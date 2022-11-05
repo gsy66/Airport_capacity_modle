@@ -1,0 +1,3 @@
+# Airport_capacity_modle
+
+用python语言建立相关数学模型来表示机场容量与各个因素之间的关系
